@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<param name="task" value="Semeval-7"/>
+<param name="inFile" value="data/semeval/bng-coarse-all-words.xml"/>
+<param name="outFile" value="answers/answers.ans"/>
+<param name="dictFile" value="data/dictionary/bn-dictionary.xml"/>
+<param name="windowSize" value="1"/>
+<param name="combinationMax" value="100000000"/>
+<param name="nbThreads" value="2" />
+</configuration>
